@@ -2,6 +2,8 @@
 ## for the back-end 
 https://github.com/PUisk-AB1/video_chat_app-backend
 
+### [live site](https://realtimo.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
